@@ -1,6 +1,6 @@
 #Certificates
 ---
-## Nombre de Otro Certificado
+## Data Science Trainign Program
 
 [![Data Science Trainign Program](./img/DSTP.png)](./docs/certificadoDSTP.pdf)
 
@@ -8,9 +8,9 @@
 
 ---
 
-## Certificado Profesional de Análisis de Datos de Google
+## Certificado Agentes AI
 
-[![Certificado Google Data Analytics](./img/AgentesAI.png)](./docs/certificadoAgentesAI.pdf)
+[![Certificado Agentes AI](./img/AgentesAI.png)](./docs/certificadoAgentesAI.pdf)
 
 *Puedes verificar este certificado [aquí](ENLACE_DE_VERIFICACION_GOOGLE) o ver el [PDF completo](./docs/certificadoAgentesAI.pdf).*
 
