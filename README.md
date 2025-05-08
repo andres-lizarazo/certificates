@@ -18,7 +18,7 @@
 # Pursuing 2025
 ## Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
-[![Certificado Azure DP-100](./img/DP100.jpg)](./docs/certificadoDP100.pdf)
+[![Certificado Azure DP-100](./img/DP100.png)](./docs/certificadoDP100.pdf)
 
 *Puedes verificar este certificado [aquí](ENLACE_DE_VERIFICACION_MICROSOFT) o ver el [PDF completo](./docs/certificadoAML_DP100.pdf).*
 
