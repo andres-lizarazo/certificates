@@ -1,6 +1,6 @@
 #Certificates
 ---
-## Data Science Trainign Program
+## Data Science Training Program
 
 [![Data Science Trainign Program](./img/DSTP.png)](./docs/certificadoDSTP.pdf)
 
