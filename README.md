@@ -1,4 +1,4 @@
-#Certificates
+# Certificates
 ---
 ## Data Science Training Program
 
@@ -15,7 +15,7 @@
 *Puedes verificar este certificado [aquí](ENLACE_DE_VERIFICACION_GOOGLE) o ver el [PDF completo](./docs/certificadoAgentesAI.pdf).*
 
 ---
-#Pursuing 2025
+# Pursuing 2025
 ## Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
 [![Certificado Azure DP-100](./img/DP100.jpg)](./docs/certificadoDP100.pdf)
